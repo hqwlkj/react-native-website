@@ -120,7 +120,7 @@ class ModalExample extends Component {
 
 ### `transparent`
 
-`transparent` prop determines whether your modal will fill the entire view. Setting this to `true` will render the modal over a transparent background.
+`transparent` 确定您的模态是否会填满整个视图。将此设置为`true`将在透明背景上呈现模态。.
 
 | 类型 | 必填 |
 | ---- | ---- |
