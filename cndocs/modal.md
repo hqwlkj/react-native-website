@@ -120,7 +120,7 @@ class ModalExample extends Component {
 
 ### `transparent`
 
-`transparent` 确定您的模态是否会填满整个视图。将此设置为`true`将在透明背景上呈现模态。.
+`transparent` 属性是指背景是否透明，默认为白色，将这个属性设为：true 的时候弹出一个透明背景层的modal。
 
 | 类型 | 必填 |
 | ---- | ---- |
